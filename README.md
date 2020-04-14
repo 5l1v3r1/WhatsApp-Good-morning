@@ -15,7 +15,8 @@
 This service is separated into 2 modules.
 
 The first module, downloads all images
-[Pinterest](https://br.pinterest.com/raimunda5181/bom-dia), related to Good Morning Family, every 3 months.
+[Pinterest](https://br.pinterest.com/raimunda5181/bom-dia)
+related to Good Morning Family, every 3 months.
 
 The second module, takes the downloaded images and sends only
 1 of them, every day at 7 am from Monday to Friday in the group
