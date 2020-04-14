@@ -1,4 +1,4 @@
-<p align="center">🎾 Automatic Whatsapp Bot Good morning infinite
+<p align="center">🎾 Automatic Whatsapp Bot Good morning
 </p>
 
 <p align="center">
