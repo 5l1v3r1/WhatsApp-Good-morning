@@ -12,7 +12,7 @@
 
 ## About
 
-This service is separated into 2 modules.
+A crazy bot, which I still don't understand why I made it, This service is separated into 2 modules.
 
 The first module, downloads all images
 [Pinterest](https://br.pinterest.com/raimunda5181/bom-dia)
